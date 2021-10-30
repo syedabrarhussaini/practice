@@ -5,5 +5,5 @@ cell = sheet.cell(row=1, column=1)
 print(cell.value)
 print(cell.value)
 print(cell.value)
-print(cell.value)
+print(3+4)
 
