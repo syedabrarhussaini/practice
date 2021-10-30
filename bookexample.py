@@ -6,4 +6,15 @@ print(cell.value)
 print(cell.value)
 print(cell.value)
 print(3+4)
+print(3+4)
+print(3+4)
+print(3+4)
+print(3+4)
+print(3+4)
+print(3+4)
+print(3+4)
+print(3+4)
+
+
+
 
